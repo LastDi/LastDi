@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LastDi
+- 👀 I'm learning Java
+- 🌱 I'm study at school 21
